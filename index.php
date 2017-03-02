@@ -12,6 +12,13 @@
 
 
 
+
+
+
+
+
+
+
 /**
  * Main file, contains the plugin metadata and activation processes
  *
@@ -20,6 +27,8 @@
  */
 
 if ( ! defined( 'RTMEDIA_VERSION' ) ) { {
+
+
 	/**
 	 * The version of the plugin
 	 *
