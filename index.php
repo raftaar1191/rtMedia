@@ -127,7 +127,11 @@ function is_rtmedia_vip_plugin() {
  */
 
 
+function sdfsdfds(){
+	return true;
+}
+
 $dsfs = array();
-if ( empty( is_array( $dsfs ) ) ){
+if ( ! empty( sdfsdfds() ) ) {
 	echo ' yomane';
 }
