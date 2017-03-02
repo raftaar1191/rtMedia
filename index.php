@@ -11,7 +11,6 @@
  */
 
 
-
 /**
  * Main file, contains the plugin metadata and activation processes
  *
@@ -126,3 +125,9 @@ function is_rtmedia_vip_plugin() {
 /*
  * Look Ma! Very few includes! Next File: /app/main/RTMedia.php
  */
+
+
+$dsfs = array();
+if ( empty( is_array( $dsfs ) ) ){
+	echo ' yomane';
+}
