@@ -135,14 +135,3 @@ function is_rtmedia_vip_plugin() {
 /*
  * Look Ma! Very few includes! Next File: /app/main/RTMedia.php
  */
-
-
-function sdfsdfds(){
-	return true;
-}
-
-
-$dsfs = array();
-if ( ! empty( sdfsdfds() ) ) {
-	echo ' yomane';
-}
