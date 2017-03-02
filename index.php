@@ -17,7 +17,7 @@
  * @subpackage Main
  */
 
-if ( ! defined( 'RTMEDIA_VERSION' ) ) {
+if ( ! defined( 'RTMEDIA_VERSION' ) ) { {
 	/**
 	 * The version of the plugin
 	 *
